@@ -44,6 +44,6 @@ module tb();
             #2;
         end
 
-        $finish;
+         $finish;         
     end
 endmodule
